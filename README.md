@@ -29,4 +29,4 @@ Easy as pie, just execute the following command
 Author
 ------
 
-- Frédéric Montet (frederic.montet@hefr.ch)
+- Frédéric Montet
