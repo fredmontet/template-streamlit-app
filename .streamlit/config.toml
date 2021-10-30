@@ -1,0 +1,5 @@
+[deprecation]
+showPyplotGlobalUse = "False"
+
+[server]
+maxUploadSize = 10000
